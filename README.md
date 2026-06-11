@@ -1,21 +1,32 @@
-# Overview
-Altiora Systems is a logistics technology company dedicated to connecting people, places, and possibilities through technology. We simplify end‑to‑end Caribbean shipping and logistics with two integrated platforms:
+# Altiora Systems
+
+Altiora Systems is modernizing Caribbean logistics with digital products that connect families, carriers, and service providers across the barrel shipping journey.
+
+We build tools for both sides of the network: Caribbean diaspora families who need clear, reliable shipping experiences, and logistics providers who need better ways to reach customers, coordinate service, and grow.
+
+## Flagship Products
 
 ### BarrelLink
-A mobile and web marketplace that lets individuals schedule barrel pickups, track shipments, manage customs, and arrange last‑mile delivery in one seamless workflow.
 
-### Altiora Connect
-A B2B solution that equips pickup carriers, freight forwarders, customs brokers, and delivery providers with the digital tools they need to accept jobs, coordinate operations, and receive secure payments.
+BarrelLink is a consumer marketplace for Caribbean barrel shipping. It helps families book, compare, and track barrel shipments end-to-end with pricing transparency, shipment updates, and in-app communication.
 
-Headquartered in the United States and rooted in Caribbean culture, Altiora Systems operates on six core values: Connection, Trust, Innovation, Empowerment, Care, and Excellence. We are bootstrapped and growth‑minded, committed to delivering intuitive products, reliable service, and lasting community impact.
+### Altiora Connect
 
-Whether you are shipping a single barrel home or managing a fleet of delivery trucks, Altiora Systems provides one platform, every connection, all the way home.
+Altiora Connect is a B2B platform for Caribbean barrel shipping service providers. It helps carriers and logistics partners expand market reach, advertise targeted services, communicate across channels, and use analytics to understand demand.
 
-## Website
-[https://www.altiorasystems.com](https://www.altiorasystems.com)
+## What We're Building Toward
 
-## Headquarters
-Williamsburg, VA
+- Real-time shipment visibility from pickup to delivery
+- Transparent booking and pricing for families
+- Better customer discovery and communication for providers
+- Partner network integration for pickup, freight, customs, and last-mile delivery
+- Tools that strengthen trust across Caribbean logistics communities
 
-## Founded
-2025
+## Company
+
+Altiora Systems LLC is headquartered in Williamsburg, Virginia. Founded in 2025, we are building with Caribbean culture, community connection, and reliable service at the center of the platform.
+
+## Connect
+
+- Website: [altiorasystems.com](https://www.altiorasystems.com)
+- Contact: [contact@altiorasystems.com](mailto:contact@altiorasystems.com)
