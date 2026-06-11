@@ -1,30 +1,39 @@
 # Altiora Systems
 
-Altiora Systems is modernizing Caribbean logistics with digital products that connect families, carriers, and service providers across the barrel shipping journey.
+Altiora Systems is a consulting and advisory firm helping small and mid-sized businesses grow, modernize, and compete.
 
-We build tools for both sides of the network: Caribbean diaspora families who need clear, reliable shipping experiences, and logistics providers who need better ways to reach customers, coordinate service, and grow.
+We provide practical advisory support across strategy, operations, marketing, process improvement, AI-enabled business improvement, and business analysis. Our work helps owners and leadership teams understand challenges, evaluate options, and turn complexity into clear, practical recommendations.
 
-## Flagship Products
+## Advisory Services
 
-### BarrelLink
+- Strategy: clarify priorities, markets, offers, and practical growth roadmaps.
+- Sales & Marketing: improve positioning, lead flow, conversion, customer follow-up, and digital visibility.
+- Operations: identify where day-to-day work slows down and where better structure would help.
+- Process Improvement: map current workflows and recommend simpler, cleaner ways of working.
+- AI Advisory: separate useful AI opportunities from hype and choose practical pilots responsibly.
+- Digital Marketing: focus channels, content, and measurement around business goals.
+- Business Analysis: turn scattered information into clearer options, tradeoffs, and decisions.
 
-BarrelLink is a consumer marketplace for Caribbean barrel shipping. It helps families book, compare, and track barrel shipments end-to-end with pricing transparency, shipment updates, and in-app communication.
+## Advisory Model
 
-### Altiora Connect
+Altiora combines experienced advisory judgment with emerging professional talent. Advisors frame the work, guide the analysis, and stand behind the recommendations, while MBA, graduate-level, and high-potential student talent adds analytical capacity, fresh thinking, and modern business fluency.
 
-Altiora Connect is a B2B platform for Caribbean barrel shipping service providers. It helps carriers and logistics partners expand market reach, advertise targeted services, communicate across channels, and use analytics to understand demand.
+The result is structured analysis, clear language, practical tradeoffs, and roadmaps a growing business can act on without big-firm complexity.
 
-## What We're Building Toward
+## Who We Serve
 
-- Real-time shipment visibility from pickup to delivery
-- Transparent booking and pricing for families
-- Better customer discovery and communication for providers
-- Partner network integration for pickup, freight, customs, and last-mile delivery
-- Tools that strengthen trust across Caribbean logistics communities
+Altiora is built first for local and regional small and mid-sized businesses, including:
+
+- Owner-led small businesses
+- Construction and specialty trades
+- Retail and local services
+- Logistics and transportation
+- Non-profits and community organizations
+- Startups and growth-stage ventures
 
 ## Company
 
-Altiora Systems LLC is headquartered in Williamsburg, Virginia. Founded in 2025, we are building with Caribbean culture, community connection, and reliable service at the center of the platform.
+Altiora Systems LLC is headquartered in Williamsburg, Virginia. Our mission is to help growing businesses think clearly and decide confidently by making big-firm insight accessible to the owners and leaders who drive them.
 
 ## Connect
 
