@@ -1,6 +1,6 @@
 # Altiora Systems
 
-Altiora Systems is a consulting and advisory firm helping small and mid-sized businesses grow, modernize, and compete.
+Altiora Systems is a consulting firm helping small and mid-sized businesses grow, modernize, and compete.
 
 We provide practical advisory support across strategy, operations, marketing, process improvement, AI-enabled business improvement, and business analysis. Our work helps owners and leadership teams understand challenges, evaluate options, and turn complexity into clear, practical recommendations.
 
